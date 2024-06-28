@@ -1,7 +1,7 @@
-# PDFInsight
-Upload your PDFs to PDFInsight and ask questions to instantly retrieve precise information from your documents, powered by Supabase's vector store.
+# DocuQuest
+Upload your PDFs to DocuQuest and ask questions to instantly retrieve precise information from your documents, powered by Supabase's vector store.
 
-![Project Cover](https://github.com/dhruvldrp9/PDFInsight/blob/main/pdf_qa_website/PDFInsight.jpeg)
+![Project Cover](https://github.com/dhruvldrp9/DocuQuest/blob/main/pdf_qa_website/PDFInsight.jpeg)
 
 ## Prerequisites
 
