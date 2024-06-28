@@ -1,6 +1,8 @@
 # PDFInsight
 Upload your PDFs to PDFInsight and ask questions to instantly retrieve precise information from your documents, powered by Supabase's vector store.
 
+![Project Cover](https://github.com/dhruvldrp9/PDFInsight/blob/main/pdf_qa_website/PDFInsight.jpeg)
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed or set up:
