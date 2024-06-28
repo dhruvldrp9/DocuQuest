@@ -1,5 +1,8 @@
 # DocuQuest
-Upload your PDFs to DocuQuest and ask questions to instantly retrieve precise information from your documents, powered by Supabase's vector store.
+
+DocuQuest makes it simple to dive deep into your PDFs. Just upload your documents, and DocuQuest goes to work, pulling out key details using smart technology. It stores everything securely with Supabase, so you can find what you need fast. Whether you're looking for specific answers or exploring new ideas, DocuQuest uses advanced tools to help you uncover insights effortlessly.
+
+DocuQuest is your partner in making document management smarter and more intuitive, putting the power of sophisticated analysis right at your fingertips.
 
 ![Project Cover](https://github.com/dhruvldrp9/DocuQuest/blob/main/pdf_qa_website/DCUeest.jpeg)
 
